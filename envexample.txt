@@ -1,0 +1,10 @@
+PORT=3000
+API_LINK=https://reqres.in/api
+SCRAPE_LINK=https://develop.pub.afflu.net
+SCRAPE_EMAIL=scrape_email@gmail.com
+SCRAPE_PASSWORD=scrape_email@password
+DB_HOST=DatabaseHost
+DB_USER=DatabaseUser
+DB_DATABASE=DatabaseName
+DB_PASSWORD=DatabasePassword
+DB_PORT=DatabasePort

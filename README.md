@@ -1,7 +1,6 @@
 ## Note:
 
-* Please copy .env content inside .env.example and rename it .env or let me know if i can send it to you if you do not have it  
-
+* Please copy .env content inside envexample.txt and rename it .env without .txt or copy .env file on same location with envexample.txt
 
 ## Prerequisites
 
@@ -19,7 +18,7 @@ You will need the following things properly installed on your computer.
 
 ## Running / Development
 
-* Run `node server.js` in the ember-ui folder.
+* Run `node server.js` in the web_scraping folder.
 * Visit your app at [http://localhost:3000](http://localhost:3000).
 * You may change Port number under .env 
 
