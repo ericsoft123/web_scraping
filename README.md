@@ -1,6 +1,6 @@
 ## Note:
 
-* Please copy .env content inside .env.example and rename it .env or let me know if i can send it you if you do not have it  
+* Please copy .env content inside .env.example and rename it .env or let me know if i can send it to you if you do not have it  
 
 
 ## Prerequisites
@@ -31,9 +31,9 @@ You will need the following things properly installed on your computer.
 
 ### Running REST API Client
 
-* `open server.rest` and start test endpoint or if you do not have it download on your VSCODE[Rest Client](https://marketplace.visualstudio.com/items?itemName=humao.rest-client)
+* `open server.rest` and test all endpoint inside there or if you do not have it download this VSCODE extension [Rest Client](https://marketplace.visualstudio.com/items?itemName=humao.rest-client)
 
-* or if you have `postman` check all list of API `Server.rest`
+* or if you have `postman` check all API inside `Server.rest`
 
 
 
