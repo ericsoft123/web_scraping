@@ -1,0 +1,29 @@
+### Date Come from https://reqres.in/ fetched using Axios
+### Insert Data in userdata  check code UserModel,UserService and UserController
+@baseUrl = http://localhost:3000/api/v1/
+GET {{baseUrl}}/insertUsers
+content-type: application/json;charset=UTF-8
+
+### Fetch Data From userdata table and pass through uSerModel method FindAll
+### Display Data when you use this endpoint
+@baseUrl = http://localhost:3000/api/v1/
+GET {{baseUrl}}/UserfindAll
+content-type: application/json;charset=UTF-8
+
+### Note: check Console when you call insertDate because it will take few second to process data 
+### Date Come from https://develop.pub.afflu.net/login fetched using pupeeter
+### Insert Data in datedata table  check code DataModel,DataScrape and DataController
+@baseUrl = http://localhost:3000/api/v1/
+GET {{baseUrl}}/insertDate
+content-type: application/json;charset=UTF-8
+
+### Fetch Data From datedata table and pass through uSerModel method FindAll
+### Display Data when you use this endpoint
+@baseUrl = http://localhost:3000/api/v1/
+GET {{baseUrl}}/DatefindAll
+content-type: application/json;charset=UTF-8
+
+###Welcome App
+@baseUrl = http://localhost:3000/api/v1/
+GET {{baseUrl}}
+content-type: application/json;charset=UTF-8
